@@ -1,14 +1,10 @@
-h2.tropical{
-  color: #f7325e;
-}
-p.tropical{
-  color: #7dc410;
+.tropical{
+  background-color: sandybrown;
   font-family: fantasy;
+  text-align: center;
 }
-h2.popular{
-  font-family: cursive;
-  color: blue;
-}
-p.popular{
-  font-style: oblique;
+.popular{
+  background-color: seashell;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
 }
